@@ -1,7 +1,7 @@
 # Gendorize
 In Progress...
 
-An Application which can classify images of Male and Female. Trained with powerful Machine Learning Algos.
+An Application which can classify images as Male and Female. Trained with powerful Machine Learning Algos.
 
 Languages used - `Python`, `HTML`, `CSS`, `JavaScript`
 
