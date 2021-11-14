@@ -1,0 +1,24 @@
+.upload-container{
+    border: 1.5px solid #ccc;
+    border-color: black;
+    text-align: center;
+    height: fit-content;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    padding-bottom: 1%;
+}
+.upload-header{
+    text-align: start;
+    padding: 2% 0 0 2%;
+}
+.upload-text{
+    text-align: start;
+    font-size: 1.5em;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+.image-sizing{
+    width: 60%;
+    height: 60%;
+}
