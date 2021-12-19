@@ -6,9 +6,10 @@ Languages used - `Python`, `HTML`, `CSS`, `JavaScript`
 
 Modules/Frameworks used - `Numpy`, `Pandas`, `Matplotlib`, `Scikit-Learn`, `OpenCV`, `React`, `Flask`
 
-###How to run? - Clone the repo and run the `main.py` which is in `FlaskApp-Gendorize` Folder
+### How to run? 
+#### Clone the repo and run the `main.py` which is in `FlaskApp-Gendorize` Folder
 
-##Screenshots
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/77894804/146665064-49e807e7-93c8-4f86-926b-55a7c94d7517.png)
 ![image](https://user-images.githubusercontent.com/77894804/146665069-cfdfbad6-4011-420a-94cc-3a58e2095720.png)
