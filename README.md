@@ -16,7 +16,7 @@ Modules/Frameworks used - `Numpy`, `Pandas`, `Matplotlib`, `Scikit-Learn`, `Open
 ![image](https://user-images.githubusercontent.com/77894804/146665101-2510989e-2dc1-4854-a946-cc7145584871.png)
  
  
- ### Hmm, Now its time for some fun..
+ ## Hmm, Now its time for some fun..
  
- ####(Proof that my model is corrcet lmao..)
+ ###(Proof that my model is corrcet lmao..)
  ![image](https://user-images.githubusercontent.com/77894804/146665113-359c911b-d2c3-49f5-9cb4-1adca0f2e4cc.png)
