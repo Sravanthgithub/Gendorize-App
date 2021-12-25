@@ -19,5 +19,5 @@ Modules/Frameworks used - `Numpy`, `Pandas`, `Matplotlib`, `Scikit-Learn`, `Open
  
  ## Hmm, Now its time for some fun..
  
- ### (Proof that my model is corrcet lmao..)
+ ### (Proof that my model is giving correct predictions lmao..)
  ![image](https://user-images.githubusercontent.com/77894804/146665113-359c911b-d2c3-49f5-9cb4-1adca0f2e4cc.png)
